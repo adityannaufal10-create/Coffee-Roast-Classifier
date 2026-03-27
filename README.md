@@ -1,25 +1,30 @@
-☕ Coffee Roast Level Classifier 🚀
-Proyek kolaborasi ini adalah aplikasi berbasis Deep Learning untuk mengklasifikasikan tingkat kematangan roasting biji kopi secara otomatis menggunakan Computer Vision.
+# ☕ Coffee Roast Level Classifier 🚀
 
-🛠️ Tech Stack
-Framework: Flask (Python)
-AI Model: EfficientNet-B0 (Pre-trained)
-Library: PyTorch, Torchvision, NumPy, PIL
-Deployment: Docker on Hugging Face Spaces
-📊 Dataset & Categories
+**🚀 Coba langsung aplikasinya di sini:[ [Masukkan Link Hugging Face Kamu Di Sini]](https://huggingface.co/spaces/adityanaufal/Coffee-Roast-Classifier)**
+
+Proyek kolaborasi ini adalah aplikasi berbasis **Deep Learning** untuk mengklasifikasikan tingkat kematangan *roasting* biji kopi secara otomatis menggunakan *Computer Vision*.
+
+## 🛠️ Tech Stack
+* **Framework:** Flask (Python)
+* **AI Model:** EfficientNet-B0 (Pre-trained)
+* **Library:** PyTorch, Torchvision, NumPy, PIL
+* **Deployment:** Docker on Hugging Face Spaces
+
+## 📊 Dataset & Categories
 Model AI ini telah dilatih untuk mendeteksi 4 kategori utama kematangan kopi:
+1. **Green Bean** (Biji kopi mentah)
+2. **Light Roast**
+3. **Medium Roast**
+4. **Dark Roast**
 
-Green Bean (Biji kopi mentah)
-Light Roast
-Medium Roast
-Dark Roast
-👥 Authors
+## 👥 Authors
 Proyek ini dikembangkan secara kolaboratif oleh:
+* **Aditya Naufal Jay Putra**
+  * LinkedIn: https://www.linkedin.com/in/aditya-naufal-jay-putra-78a667324
+  * GitHub: https://github.com/adityannaufal10-create
+* **Moch Arizal**
+  * LinkedIn: [Masukkan Link LinkedIn Arizal]
+  * GitHub: [Masukkan Link GitHub Arizal]
 
-Aditya Naufal Jay Putra
-LinkedIn: https://www.linkedin.com/in/aditya-naufal-jay-putra-78a667324
-GitHub: https://github.com/adityannaufal10-create
-Moch Arizal
-LinkedIn: [Masukkan Link LinkedIn Arizal]
-GitHub: [Masukkan Link GitHub Arizal]
-Proyek ini dibuat sebagai bagian dari implementasi praktis klasifikasi citra menggunakan arsitektur EfficientNet.
+---
+*Proyek ini dibuat sebagai bagian dari implementasi praktis klasifikasi citra menggunakan arsitektur EfficientNet.*
