@@ -1,6 +1,6 @@
 # ☕ Coffee Roast Level Classifier 🚀
 
-**🚀 Coba langsung aplikasinya di sini:[ [Masukkan Link Hugging Face Kamu Di Sini]](https://huggingface.co/spaces/adityanaufal/Coffee-Roast-Classifier)**
+**🚀 Coba langsung aplikasinya di sini: https://huggingface.co/spaces/adityanaufal/Coffee-Roast-Classifier**
 
 Proyek kolaborasi ini adalah aplikasi berbasis **Deep Learning** untuk mengklasifikasikan tingkat kematangan *roasting* biji kopi secara otomatis menggunakan *Computer Vision*.
 
