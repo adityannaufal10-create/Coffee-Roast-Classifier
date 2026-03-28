@@ -23,8 +23,8 @@ Proyek ini dikembangkan secara kolaboratif oleh:
   * LinkedIn: https://www.linkedin.com/in/aditya-naufal-jay-putra-78a667324
   * GitHub: https://github.com/adityannaufal10-create
 * **Moch Arizal**
-  * LinkedIn: [Masukkan Link LinkedIn Arizal]
-  * GitHub: [Masukkan Link GitHub Arizal]
+  * LinkedIn: https://www.linkedin.com/in/moch-arizal/
+  * GitHub: https://github.com/arizal261104
 
 ---
 *Proyek ini dibuat sebagai bagian dari implementasi praktis klasifikasi citra menggunakan arsitektur EfficientNet.*
