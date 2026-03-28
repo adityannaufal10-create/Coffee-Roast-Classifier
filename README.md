@@ -11,6 +11,10 @@
 
 Coba aplikasi live:  
 https://huggingface.co/spaces/adityanaufal/Coffee-Roast-Classifier
+Link Kaggle dataset sebelum gambar dikonversi:
+https://www.kaggle.com/datasets/sot2542/coffee-bean-dataset-v2
+Link dataset setelah gambar dikonversi:
+https://drive.google.com/file/d/1nyIBdJgtEbo7UYdeDhsu8VcNUUlqO5Rq/view?usp=sharing
 
 ---
 
